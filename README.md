@@ -3,5 +3,5 @@ Credits:
 - Demo Images: [Unsplash](https://unsplash.com/)
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Others:
-	[jQuery](https://jquery.com/)
-	[Responsive Tools](github.com/ajlkn/responsive-tools)
+	- [jQuery](https://jquery.com/)
+	- [Responsive Tools](github.com/ajlkn/responsive-tools)
